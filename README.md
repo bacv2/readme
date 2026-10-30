@@ -8,7 +8,7 @@ The _GitHub Integration Project_ is a step-by-step weekly guide introducing stud
 Its symbols follow a convention for formatting plain text, as creator _John Gruber_ states:
 > "Markdown isn't really a 'syntax'. It's a set of conventions for formatting plain text."
 
-![This is what it looks like](https://d33wubrfki0l68.cloudfront.net/e3541891e3115642d605aca52e4556d397e95c6f/4e2ba/images/quicktourexample.png$0)
+![This is what it looks like](https://d33wubrfki0l68.cloudfront.net/e3541891e3115642d605aca52e4556d397e95c6f/4e2ba/images/quicktourexample.png)
 
 ### **_What Symbols does Markdown use?_**
 A variety of symbols are used to convey different formats, such as:

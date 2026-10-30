@@ -2,13 +2,17 @@
 ## **What is it?**
 The _GitHub Integration Project_ is a step-by-step weekly guide introducing students to the basics of GitHub, allowing them to set foot into the tech industry by creating and collaborating with other programmers around the world to build projects.
 
-## **Week 10: Markdown**
-[Markdown](https://www.markdownguide.org) is an intuitive lightweight markup language that allows the easy formatting of text using symbols such as asterisks and underscores, before being processed to HTML. 
+## **Week 10: _Markdown_**
+[_Markdown_](https://www.markdownguide.org) is an intuitive lightweight markup language that allows the easy formatting of text using symbols such as asterisks and underscores, before being processed to HTML. 
 
 Its symbols follow a convention for formatting plain text, as creator _John Gruber_ states:
-> "Markdown isn't really a 'syntax'. It's a set of conventions for formatting plain text."
+> "_Markdown_ isn't really a 'syntax'. It's a set of conventions for formatting plain text."
 
 ![This is what it looks like](https://d33wubrfki0l68.cloudfront.net/e3541891e3115642d605aca52e4556d397e95c6f/4e2ba/images/quicktourexample.png)
+
+###**Installation and usage**
+A big benefit of _Markdown_ is that there's no need to install it! Simply start writing in any .md  or other compatible text editor. To use, simply employ its syntax, which is briefly covered in the next section.
+
 
 ### **_What Symbols does Markdown use?_**
 A variety of symbols are used to convey different formats, such as:
